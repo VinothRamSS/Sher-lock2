@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.vinothramss.Sher_Lock"
+    android:versionName="0.1.0-SNAPSHOT" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application android:label="Sher-Lock" >
+        <activity
+            android:name="com.example.vinothramss.Sher_Lock.GestureBuilderActivity"
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/application_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.vinothramss.Sher_Lock.CreateActivity"
+            android:label="@string/label_create_gesture" />
+        <activity
+            android:name="com.example.vinothramss.Sher_Lock.UserOptionsActivity"
+            android:label="@string/title_activity_user_options" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.vinothramss.Sher_Lock.GestureBuilderActivity" />
+        </activity>
+        <activity android:name="com.example.vinothramss.Sher_Lock.LockActivity" />
+    </application>
+
+</manifest>

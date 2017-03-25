@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gesture_color">#FFFFFF00</color>
+    <color name="gesture_overlay">#00ff8f</color>
+    <color name="text_color">#6000a6</color>
+    <color name="button_color">#ffffff</color>
+</resources>

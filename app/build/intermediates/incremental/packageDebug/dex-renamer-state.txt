@@ -1,0 +1,7 @@
+#Sat Mar 25 15:48:59 IST 2017
+base.0=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_065bf16f76eb5911cc46039e80dd29ae9fe6f878
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_01e410243d0df8afcfa9a20b977ba959bfc41397\\classes.dex
+base.1=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_01e410243d0df8afcfa9a20b977ba959bfc41397
+file.0=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_065bf16f76eb5911cc46039e80dd29ae9fe6f878\\classes.dex
