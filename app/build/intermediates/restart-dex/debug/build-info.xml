@@ -5,9 +5,9 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="32417743543469"
+    timestamp="9079776159931"
     token="7179071144026189823"
-    verifier="COMPATIBLE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -22,30 +22,15 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
-
     <build
-        timestamp="31324085803700"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="8784499207009"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
         <artifact
             location="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="31745161956297"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="32417743543469"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-    </build>
+        timestamp="9079776159931"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

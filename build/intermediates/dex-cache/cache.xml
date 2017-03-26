@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0a8daf75e3f64b5cc44eb5c7656e41fe3b1f7cf0">
+        sha1="a96c75c5bf1c86f2ffa0786472ee535a333ec051">
         <dex dex="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_01e410243d0df8afcfa9a20b977ba959bfc41397\classes.dex" />
     </item>
     <item
@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="571b2e23cc38950f616835ce3dd7c3e59bd9e0ab">
+        sha1="3946cc2704ab12c552a9aa879dd9af7fd420f3e7">
         <dex dex="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_065bf16f76eb5911cc46039e80dd29ae9fe6f878\classes.dex" />
     </item>
 

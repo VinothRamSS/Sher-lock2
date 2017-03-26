@@ -40,7 +40,7 @@
     <string name="retrain_user">Retrain User</string>
     <string name="root_dir">gesture_users</string>
     <string name="save_success">Gesture was successful</string>
-    <string name="title_activity_user_options">user_opetions_activity</string>
+    <string name="title_activity_user_options">user_options_activity</string>
     <string name="train">train</string>
     <string name="training_session_name">Training Session</string>
     <string name="user_name">user_name</string>

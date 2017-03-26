@@ -1,18 +1,18 @@
 #Internal package file, do not edit.
-#Sat Mar 25 16:07:06 IST 2017
+#Sun Mar 26 11:44:46 IST 2017
 2.base=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.file=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\gestures_item.xml
 5.set=ANDROID_RESOURCE
 3.base=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\resources-debug.ap_
-6.file=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.file=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
 2.set=ANDROID_RESOURCE
 4.base=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\resources-debug.ap_
-7.file=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\row.xml
+7.file=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 7.set=ANDROID_RESOURCE
 count=10
 0.file=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 5.base=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\resources-debug.ap_
-8.file=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+8.file=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\row.xml
 4.set=ANDROID_RESOURCE
 6.base=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\resources-debug.ap_
 1.file=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\create_gesture.xml

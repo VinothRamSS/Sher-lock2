@@ -3,7 +3,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.vinothramss.Sher_Lock"
     android:versionName="0.1.0-SNAPSHOT" >
+
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
     <uses-sdk
         android:minSdkVersion="19"
        android:targetSdkVersion="21" />
