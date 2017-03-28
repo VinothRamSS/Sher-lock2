@@ -1,4 +1,4 @@
-#Sun Mar 26 11:44:53 IST 2017
+#Sun Mar 26 16:18:09 IST 2017
 base.0=C\:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_065bf16f76eb5911cc46039e80dd29ae9fe6f878
 renamed.1=classes2.dex
 renamed.0=classes.dex

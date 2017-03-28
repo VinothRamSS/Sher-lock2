@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources>
     <skip />
     <string name="application_name">Sher-Lock</string>
     <string name="label_create_gesture">Create Gesture</string>
@@ -43,5 +43,7 @@
     <string name="authenticate">authenticate</string>
     <string name="button_authenticate">Authenticate</string>
     <string name="lock_apps">Lock Apps</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
 
 </resources>

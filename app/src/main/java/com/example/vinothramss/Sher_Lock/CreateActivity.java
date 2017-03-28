@@ -112,9 +112,10 @@ public class CreateActivity extends Activity
     }
     private void deletePreviousSession()
     {
-        for (File file : mUserDir.listFiles())
-        {
-            file.delete();
+        if(mUserDir != null) {
+            for (File file : mUserDir.listFiles()) {
+                file.delete();
+            }
         }
     }
 
@@ -148,6 +149,7 @@ public class CreateActivity extends Activity
             mFinishSessionButton.setEnabled(true);
         }
     }
+
     public void onAuthenticateButtonPress(View v)
     {
         GestureLibrary userStore = GestureLibraries.fromFile(mUserFile);

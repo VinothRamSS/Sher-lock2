@@ -5,9 +5,9 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="9079776159931"
+    timestamp="52644671471386"
     token="7179071144026189823"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -22,15 +22,16 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
     <build
-        timestamp="8784499207009"
-        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        timestamp="52644671471386"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="9079776159931"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
